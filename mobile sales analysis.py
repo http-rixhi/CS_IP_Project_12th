@@ -29,7 +29,7 @@ def No_Index():
     df=pd.read_csv('E:\\Rishi Study\\Projects\IP\\main files\\mobile.csv', index_col=0)
     print(df)
 
-#****************************FOR LINE CHART**********************************************
+#****************************FOR LINE CHART*********************************************
 
 def line_plot():
     print("    Press 1 to print the data for Price as per Mobile.")
